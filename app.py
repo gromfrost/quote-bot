@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # URL для Google Sheets или Pastebin
 SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vT2X9puaSsG7NvDdRd16CdNL3YPjbsVPr8qO1LJximNbRNnGeVc1G_SIDmnBcQXkfN2nmpsNBqhh2rj/pub?output=csv'
-PASTEBIN_URL = 'https://pastebin.com/raw/xxxxxxxx'  # замените на ваш URL
+PASTEBIN_URL = 'https://pastebin.com/raw/RrNbmfne'  # замените на ваш URL
 
 def get_quotes():
     # Извлечение цитат из Google Sheets
